@@ -1,0 +1,1 @@
+Scripts for making experiments on trained models with different hyperparameters. It's recommended to make a new subdirctory for each experiment and store its corresponding hyperparameters in a separate config file rather than hard-code
