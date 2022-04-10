@@ -1,1 +1,1 @@
-A default Sphinx project; see sphinx-doc.org for details
+Trained and serialized models, model predictions, or model summaries
